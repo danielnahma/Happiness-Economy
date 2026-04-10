@@ -34,7 +34,7 @@ Streamlit App → Dockerized & Deployed
 
 The full project flow was designed and documented using draw.io:
 
-![Project Flow](./Images/Happiness-economy-flow.png)
+![Project Flow](./Images/Happiness%20economy%20flow.png)
 
 ---
 
