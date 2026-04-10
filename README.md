@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-> 📸 *Screenshot coming soon*
+![Project screenshot ](./Images/Happiness%20economy%20flow.png)
 
 ---
 
