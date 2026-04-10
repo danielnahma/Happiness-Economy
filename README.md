@@ -12,9 +12,8 @@
 
 ---
 
-## Live Demo
-
-![Project screenshot ](./Images/Happiness%20economy%20flow.png)
+## Project Screenshot
+![Project screenshot ](./Images/Screenshot.png)
 
 ---
 
