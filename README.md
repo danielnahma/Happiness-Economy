@@ -114,8 +114,8 @@ project/
 Built as the final project for a Data Analyst Bootcamp.  
 The goal was to combine data engineering (ETL pipeline, PostgreSQL, Docker) with data analysis and a production-ready interactive dashboard.
 
-**Daniel Nahmani** — ETL pipeline, database architecture, Docker infrastructure, Streamlit dashboard  
-**Batel Bazri** — Analysis direction and research insights
+**Daniel Nahmani** - ETL pipeline, database architecture, Docker infrastructure, Streamlit dashboard  
+**Batel Bazri** - Analysis direction and research insights
 
 
 ## ⚠️ Security Note
