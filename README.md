@@ -1,4 +1,4 @@
-# Work & Life — Global Balance Report 
+# Work & Life — Global Balance Report
 ### Does working more mean living longer?
 
 > **Bootcamp Final Project** · Data Engineering + Data Analysis  
